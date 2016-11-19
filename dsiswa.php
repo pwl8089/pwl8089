@@ -35,4 +35,5 @@ $dt = $data[0];
  <br/>
 
  <a href="siswa.php">kembali</a>
+  <a href="dsiswa.php">back</a>
 
